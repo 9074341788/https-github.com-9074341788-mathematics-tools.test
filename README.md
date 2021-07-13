@@ -1,23 +1,5 @@
 ![Screenshot (54)](https://user-images.githubusercontent.com/65505299/125539028-9870aa38-5f3f-4add-9a51-1fc6f3c76a8b.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-[CMakeLists.txt](https://github.com/9074341788/mathematics-tools.test/files/6804879/CMakeLists.txt)
-![San Dias Brewery](https://user-images.githubusercontent.com/65505299/125453421-f57b6339-2baf-4e34-bba2-becfc0f4fef7.png)
-
-
-https://github.com/prithvisekhar/AppliedSDLC_Template#sdlc-activity-based-learning 
 # SDLC Activity Based Learning
 
 Visit [Pages for Report -optional](using github.io option)
@@ -39,21 +21,18 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`ABC` | 12345678  | Feature A, B etc    | X No     | X No   |X No   |X No     
-`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No 
-## Contributors list and summary
-
-| SF ID  |       Name         | Total test cases | Teset cases passing | Test cases failing |
-| :----: | :----------------: | :--------------: | :-----------------: | :----------------: |
-| 314679 | Shubham Kumar    |        4        |           4        |          0         |
+SHUBHAM KUMAR | 314679  | atm programming  management   |  No     |  No  |4   |4    
+` 
 
 
 ## Challenges Faced and How Was It Overcome
 
-1. ABC
-2. BCD
-3. ...
-4. ...
+1. Initialize the variables PIN,ACCOUNTS NUMBER,TRANSACTION 
+2. choose the correct option 
+3. files structure 
+4. 
+5.
+4
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
