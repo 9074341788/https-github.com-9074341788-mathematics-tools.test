@@ -1,4 +1,8 @@
 ![Screenshot (54)](https://user-images.githubusercontent.com/65505299/125539028-9870aa38-5f3f-4add-9a51-1fc6f3c76a8b.png)
+Build | Code Quality | Unity | [Git Inspector](using github.io option)
+------|----------|-------|--------------
+[![BUILD](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/Build.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/Build.yml) | [![Cpp check](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/cppcheck.yml) [![Static Code Analysis](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/static.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/static.yml) [![Dynamic Valgrind](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml)| [![Unit Testing](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/unit_test.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/unit_test.yml)| [![Git Inspector](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/Git_Inspector.yml)
+
 
 # SDLC Activity Based Learning
 
@@ -29,10 +33,8 @@ SHUBHAM KUMAR | 314679  | atm programming  management   |  No     |  No  |4   |4
 
 1. Initialize the variables PIN,ACCOUNTS NUMBER,TRANSACTION 
 2. choose the correct option 
-3. files structure 
-4. 
-5.
-4
+3. compiling files structure 
+
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
