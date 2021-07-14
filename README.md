@@ -1,4 +1,16 @@
 ![Screenshot (54)](https://user-images.githubusercontent.com/65505299/125539028-9870aa38-5f3f-4add-9a51-1fc6f3c76a8b.png)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d1e816a975b84d97a925af4e8b255c6b)](https://www.codacy.com/gh/skandams/Railway-management-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=skandams/Railway-management-system&amp;utm_campaign=Badge_Grade)
+
+[![cppcheck-action](https://github.com/skandams/Railway-management-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/skandams/Railway-management-system/actions/workflows/cppcheck.yml)
+
+[![Valgrind_Check](https://github.com/skandams/Railway-management-system/actions/workflows/Valgrind_Check.yml/badge.svg)](https://github.com/skandams/Railway-management-system/actions/workflows/Valgrind_Check.yml)
+
+[![Unit Testing - Unity](https://github.com/skandams/Railway-management-system/actions/workflows/Unit-Testing.yml/badge.svg)](https://github.com/skandams/Railway-management-system/actions/workflows/Unit-Testing.yml)
+
+[![Code Coverage](https://github.com/skandams/Railway-management-system/actions/workflows/code-coverage.yml/badge.svg)](https://github.com/skandams/Railway-management-system/actions/workflows/code-coverage.yml)
+
+[![C/C++ CI](https://github.com/skandams/Railway-management-system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/skandams/Railway-management-system/actions/workflows/c-cpp.yml)
+
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
 [![BUILD](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/Build.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/Build.yml) | [![Cpp check](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/cppcheck.yml) [![Static Code Analysis](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/static.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/static.yml) [![Dynamic Valgrind](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml)| [![Unit Testing](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/unit_test.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/unit_test.yml)| [![Git Inspector](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/Git_Inspector.yml)
