@@ -11,9 +11,6 @@
 
 [![C/C++ CI](https://github.com/skandams/Railway-management-system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/skandams/Railway-management-system/actions/workflows/c-cpp.yml)
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-[![BUILD](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/Build.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/Build.yml) | [![Cpp check](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/cppcheck.yml) [![Static Code Analysis](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/static.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/static.yml) [![Dynamic Valgrind](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml)| [![Unit Testing](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/unit_test.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/unit_test.yml)| [![Git Inspector](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/indrakumar1999/MiniProject-311053/actions/workflows/Git_Inspector.yml)
 
 
 # SDLC Activity Based Learning
